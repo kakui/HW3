@@ -32,8 +32,13 @@ img{
 	position: relative;
 }
 
+#photos img{
+	float:left;
+	margin-right: 20px;
+}
+
 /* This is for the photos on the video game site */
-#clash img{
+/*#clash img{
 	position: absolute;
 }
 
@@ -80,9 +85,10 @@ img{
 	margin-top: 700px;
 	margin-left: 680px;
 }
-
+*/
 /* This is for the photos on the photography site */
-#sunset img{
+
+/*#sunset img{
 	position: absolute;
 }
 
@@ -128,7 +134,7 @@ img{
 	position: absolute;
 	margin-top: 700px;
 	margin-left: 680px;
-}
+}*/
 
 /* This affects the navigation bar */
 a{
